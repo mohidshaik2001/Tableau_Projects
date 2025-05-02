@@ -35,6 +35,9 @@ This Tableau project presents a suite of interactive dashboards analyzing **sale
 - Sales dip observed in Q2 due to inventory cycle — potential area for stock-level optimization.
 - Top 10 products contribute disproportionately to total profit.
 
+**Screen Shot**
+![Sales Dashboard](Dashboard_Images/Sales_Dashboard_Pic.png)
+
 ---
 
 ### 👤 **Customer Dashboard**
@@ -51,6 +54,9 @@ This Tableau project presents a suite of interactive dashboards analyzing **sale
 - Urban zones account for the highest order frequency, especially Tier 1 cities.
 - Most loyal customers (top 10%) generate 3x more orders than the average customer.
 - Orders per customer show strong correlation with regional campaigns.
+
+**Screen Shot**
+![Customer Dashboard](Dashboard_Images/Customer_Dashboard_Pic.png)
 
 ---
 
@@ -69,6 +75,8 @@ This Tableau project presents a suite of interactive dashboards analyzing **sale
 - Returned items spike during discount campaigns — return policy optimization needed.
 - Timely deliveries have a direct correlation with higher customer satisfaction and repeat rates.
 
+**Screen Shot**
+![Delivery Dashboard](Dashboard_Images/Delivery_Dashboard_Pic.png)
 ---
 
 ## 🛠 Tools Used
