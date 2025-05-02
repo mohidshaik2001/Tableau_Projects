@@ -1,4 +1,4 @@
-# Mohsa Data Visualization Project
+# Mohsa Data Analysis Project
 
 ## 📊 Overview
 
